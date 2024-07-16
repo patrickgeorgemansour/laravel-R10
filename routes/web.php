@@ -92,4 +92,5 @@ Route::post('data', function() {
 })->name('data');
 
 
+?>
 
